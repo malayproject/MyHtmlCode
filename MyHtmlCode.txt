@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>html test code</head>
+<h1>My html code</h1>
+<p>In this article i am showing you my first html code
+</p>
+<img src="htmlcode.png" alt="htmlcode.png" width="683" height="384">
+</html>
